@@ -1,0 +1,13 @@
+{
+    "name": "aleksander-szut/image-scraping",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "authors": [
+        {
+            "name": "Aleksander Szut",
+            "email": "aleksander.szut@paymento.pl"
+        }
+    ],
+    "require": {},
+}
